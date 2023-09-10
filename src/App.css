@@ -1,0 +1,98 @@
+.item-form{
+    display: flex;
+    gap: 5px;
+}
+
+.register-form{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.register-form form {
+    background-color: rgb(237, 237, 237);
+    width: 25%;
+    padding: 10px;
+    
+}
+
+.register-form div{
+    padding: 5px;
+ display: flex;
+ flex-direction: column;
+}
+
+.register-form input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+.register-form label{
+    font-weight: bold;
+}
+
+.register-form button{
+    background-color: rgb(100, 100, 193);
+    margin: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+.btn
+{
+    display: flex;
+    justify-content: center
+}
+
+.btn button{
+    background-color: rgb(100, 100, 193);
+    margin: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+.sign-in {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in form {
+    background-color: rgb(237, 237, 237);
+    width: 25%;
+    padding: 10px;
+}
+
+
+.sign-in div{
+ padding: 5px;
+ display: flex;
+ flex-direction: column;
+}
+
+.sign-in input {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+.sign-in label{
+    font-weight: bold;
+}
+.sign-in button{
+    background-color: rgb(100, 100, 193);
+    margin: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
